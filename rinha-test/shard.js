@@ -3,7 +3,7 @@ const $ = util.promisify(require("child_process").exec);
 const fs = require("fs");
 const path = require("path");
 
-const TOTAL_CHUNKS = 10;
+const TOTAL_CHUNKS = 8;
 const SOURCE_DIR = path.join(__dirname, "..", "participantes");
 
 const chunkNumberArg = process.argv[2];
