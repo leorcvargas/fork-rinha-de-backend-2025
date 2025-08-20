@@ -297,12 +297,15 @@ export async function checkPaymentsConsistency() {
     backendPaymentsSummaryPromise,
   ]);
 
-  const inconsistencies = Math.abs(
-    backendPaymentsSummary.default.totalRequests -
-      defaultAdminPaymentsSummary.totalRequests +
-      (backendPaymentsSummary.fallback.totalRequests -
-        fallbackAdminPaymentsSummary.totalRequests),
-  );
+  const inconsistencies =
+    Math.abs(
+      backendPaymentsSummary.default.totalRequests -
+        defaultAdminPaymentsSummary.totalRequests,
+    ) +
+    Math.abs(
+      backendPaymentsSummary.fallback.totalRequests -
+        fallbackAdminPaymentsSummary.totalRequests,
+    );
 
   paymentsInconsistencyCounter.add(inconsistencies);
 
