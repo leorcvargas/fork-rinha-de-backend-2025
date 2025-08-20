@@ -31,19 +31,7 @@ if (isNaN(CHUNK_NUMBER) || CHUNK_NUMBER < 0 || CHUNK_NUMBER >= TOTAL_CHUNKS) {
       return fs.statSync(entryPath).isDirectory();
     });
 
-    await $("mv ../participantes ../participantes-onhold");
-    await $("mkdir ../participantes");
-
-    const totalFolders = allFolders.length;
-    const chunkSize = Math.ceil(totalFolders / TOTAL_CHUNKS);
-    const startIndex = CHUNK_NUMBER * chunkSize;
-    const endIndex = startIndex + chunkSize;
-
-    const chunkFolders = allFolders.slice(startIndex, endIndex);
-
-    for (const folder of chunkFolders) {
-      await $(`mv ../participantes-onhold/${folder} ../participantes`);
-      await $(`./run-tests-final.sh`);
+    for (const folder of allFolders) {
       await $(`mv ../participantes/${folder} ../participantes-onhold`);
     }
 
