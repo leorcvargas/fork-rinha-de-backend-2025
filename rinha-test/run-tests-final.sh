@@ -103,7 +103,7 @@ for directory in ../participantes/*; do
         echo "[$(date)] Inspecione o arquivo docker-compose-final.logs para mais informações." >>$directory/error-final.logs
         echo "Could not get a successful response from backend... aborting test for $participant"
       fi
-      docker compose down -v && docker compose image prune
+      docker compose down -v && docker compose image prune --force --all
 
       echo "================================="
       echo "  Finished testing $participant!"
