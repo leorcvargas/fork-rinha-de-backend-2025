@@ -318,7 +318,7 @@
         "restbed"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T00:55:57.424Z",
       "participante": "marcelo-dias-final",
@@ -389,7 +389,7 @@
         "restbed"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T00:44:55.399Z",
       "participante": "marcelo-dias",
@@ -537,7 +537,7 @@
         "streams"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T20:48:06.360Z",
       "participante": "yanpitangui-dotnet-v2",
@@ -612,7 +612,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T01:37:47.360Z",
       "participante": "cristian-s-node-1",
@@ -895,7 +895,7 @@
         "Bun Workers"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:58:58.806Z",
       "participante": "igor-gregori-bun-v1",
@@ -1182,7 +1182,7 @@
         "spring-boot"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T00:30:26.866Z",
       "participante": "jairoandre-kotlin",
@@ -1255,7 +1255,7 @@
         "custom"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:24:08.420Z",
       "participante": "vfabricio-uds-quick",
@@ -1749,7 +1749,7 @@
         "worker-threads"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:22:41.448Z",
       "participante": "mauricio-cantu",
@@ -2045,7 +2045,7 @@
         "GraalVM"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T16:20:04.624Z",
       "participante": "lecosas-java-spring-graalvm-2",
@@ -2548,7 +2548,7 @@
         ""
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T06:04:57.577Z",
       "participante": "breno5g",
@@ -2824,7 +2824,7 @@
         "envoy"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T08:01:40.778Z",
       "participante": "gupers-v2",
@@ -2957,7 +2957,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T17:01:05.853Z",
       "participante": "niltonkummer",
@@ -3173,7 +3173,7 @@
         ""
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T04:58:34.609Z",
       "participante": "anibalferreira-rust-2",
@@ -3399,7 +3399,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T20:18:01.669Z",
       "participante": "willianmarquess-node",
@@ -3759,7 +3759,7 @@
         "cpp-httplib"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:11:44.472Z",
       "participante": "asfernandes-haproxy-mongoose-lmdb",
@@ -4048,7 +4048,7 @@
         ""
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:42:23.781Z",
       "participante": "gabxdev-java-2",
@@ -4124,7 +4124,7 @@
         "bun"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T00:42:21.816Z",
       "participante": "chriscorrales",
@@ -4393,7 +4393,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T15:50:47.517Z",
       "participante": "joyce-go-2",
@@ -4614,7 +4614,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T03:22:13.605Z",
       "participante": "andersongomes001-go",
@@ -4682,7 +4682,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T16:01:43.469Z",
       "participante": "joyce-go-4",
@@ -4755,7 +4755,7 @@
         "restbed"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T00:50:26.411Z",
       "participante": "marcelo-dias-fall",
@@ -4830,7 +4830,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T03:55:53.300Z",
       "participante": "cristian-s-node-3-http-2",
@@ -5329,7 +5329,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:41:53.759Z",
       "participante": "maxwelloliveira01-dotnet",
@@ -6132,7 +6132,7 @@
         "uxlb"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T19:53:29.219Z",
       "participante": "wesleymatosdev-rust",
@@ -6782,7 +6782,7 @@
         "streams"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T20:54:17.696Z",
       "participante": "yanpitangui-dotnet-v3",
@@ -6928,7 +6928,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T01:26:12.585Z",
       "participante": "cleissonbarbosa-nim",
@@ -7497,7 +7497,7 @@
         "custom"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T15:32:06.029Z",
       "participante": "josineyjr-go-4",
@@ -7716,7 +7716,7 @@
         "custom"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T15:14:48.370Z",
       "participante": "josineyjr-go-1",
@@ -7782,7 +7782,7 @@
         "custom"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T15:26:20.805Z",
       "participante": "josineyjr-go-3",
@@ -7854,7 +7854,7 @@
         ".NET"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:41:28.734Z",
       "participante": "matheusp",
@@ -8150,7 +8150,7 @@
         "reactive distributed lock"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:56:36.181Z",
       "participante": "micheloliveira-com-dotnet-csharp-grpc",
@@ -8949,7 +8949,7 @@
         "Serilog"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T00:29:39.233Z",
       "participante": "pauloSergio-dotnet-01",
@@ -9241,7 +9241,7 @@
         "custom"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:18:07.992Z",
       "participante": "vfabricio-uds-greedy",
@@ -9760,7 +9760,7 @@
         "fasthttp"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T00:49:36.790Z",
       "participante": "kauan-carvalho-go",
@@ -9908,7 +9908,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T20:35:45.680Z",
       "participante": "wlagent",
@@ -10269,7 +10269,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T20:05:46.264Z",
       "participante": "wiliansimoes-dotnet",
@@ -10340,7 +10340,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T00:59:12.721Z",
       "participante": "kauanmocelin-quarkus",
@@ -10416,7 +10416,7 @@
         "docker"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:40:25.405Z",
       "participante": "francoggm-go",
@@ -10775,7 +10775,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T07:06:23.028Z",
       "participante": "brunosilvadev",
@@ -10913,7 +10913,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T04:09:25.037Z",
       "participante": "danielsuhett-golang-2",
@@ -11417,7 +11417,7 @@
         "Docker"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:57:45.124Z",
       "participante": "g4brielV-java1",
@@ -11493,7 +11493,7 @@
         ""
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:47:54.625Z",
       "participante": "gabxdev-java-3",
@@ -11563,7 +11563,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T20:11:47.320Z",
       "participante": "willianmarquess-lua-luvit",
@@ -11713,7 +11713,7 @@
         ""
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:36:52.776Z",
       "participante": "gabxdev-java-1",
@@ -11789,7 +11789,7 @@
         "quarkus"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T04:45:15.549Z",
       "participante": "andre-lucas-quarkus",
@@ -11861,7 +11861,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:51:52.728Z",
       "participante": "fuerback-miguel-go",
@@ -11927,7 +11927,7 @@
       "load-balancers": [],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T01:31:40.481Z",
       "participante": "craytee",
@@ -12648,7 +12648,7 @@
         "Java"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:59:33.474Z",
       "participante": "rst77-final",
@@ -12721,7 +12721,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:04:34.616Z",
       "participante": "antooniodev-node",
@@ -12795,7 +12795,7 @@
         "GraalVM"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T03:10:14.069Z",
       "participante": "jjeanjacques10",
@@ -12935,7 +12935,7 @@
         "spring boot"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T03:57:02.586Z",
       "participante": "jorge-java",
@@ -13007,7 +13007,7 @@
         "docker"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T00:36:59.871Z",
       "participante": "cgb-go-v2",
@@ -13423,7 +13423,7 @@
         "fasthttp"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:52:13.210Z",
       "participante": "rodrigo-militao-in-memory-v2",
@@ -13720,7 +13720,7 @@
         "docker-compose"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:34:59.704Z",
       "participante": "maxsonferovante",
@@ -14016,7 +14016,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T15:09:22.137Z",
       "participante": "josimar-silva",
@@ -14160,7 +14160,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T04:37:59.520Z",
       "participante": "alexroza-rs",
@@ -14229,7 +14229,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T21:36:42.144Z",
       "participante": "suricat89-solucao1",
@@ -14595,7 +14595,7 @@
         "typescript"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T19:25:04.451Z",
       "participante": "wallacemendes-node",
@@ -14958,7 +14958,7 @@
         ""
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T19:18:43.583Z",
       "participante": "viniciusfonseca",
@@ -15108,7 +15108,7 @@
         "fasthttp"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:46:35.593Z",
       "participante": "rodrigo-militao-in-memory",
@@ -15333,7 +15333,7 @@
         "go-redis"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T21:30:41.255Z",
       "participante": "rodrigo-militao",
@@ -15401,7 +15401,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T16:07:08.888Z",
       "participante": "joyce-go-5",
@@ -15469,7 +15469,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T15:45:16.541Z",
       "participante": "joyce-go",
@@ -15540,7 +15540,7 @@
         "custom"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:12:18.280Z",
       "participante": "vfabricio-greedy",
@@ -15682,7 +15682,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:29:40.506Z",
       "participante": "ba7s-full-rs",
@@ -15751,7 +15751,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T03:17:09.048Z",
       "participante": "joao-bittencourt-php-redis",
@@ -15819,7 +15819,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T15:56:17.726Z",
       "participante": "joyce-go-3",
@@ -16180,7 +16180,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T06:21:11.553Z",
       "participante": "lpicanco-moonshine",
@@ -16544,7 +16544,7 @@
         "NGINX"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T06:09:11.973Z",
       "participante": "daniloneto",
@@ -16827,7 +16827,7 @@
         "NGINX"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T06:14:49.704Z",
       "participante": "daniloneto-0",
@@ -16902,7 +16902,7 @@
         "quarkus"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:26:54.845Z",
       "participante": "feykke-quarkus",
@@ -16971,7 +16971,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T17:17:26.117Z",
       "participante": "pru-async-v6",
@@ -17117,7 +17117,7 @@
         "postgres"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T03:04:36.307Z",
       "participante": "jessicanathany-dotnet",
@@ -17413,7 +17413,7 @@
         "restbed"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T01:01:28.803Z",
       "participante": "marcelo-dias-skylake",
@@ -17484,7 +17484,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:46:06.744Z",
       "participante": "franklaercio",
@@ -17626,7 +17626,7 @@
         "graalvm"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:32:14.770Z",
       "participante": "matheusdojava",
@@ -17916,7 +17916,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:35:29.343Z",
       "participante": "ba7s-rs",
@@ -17991,7 +17991,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T19:59:45.201Z",
       "participante": "wildemberg-sales-dotnet",
@@ -18861,7 +18861,7 @@
         "hyperf"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T19:47:31.131Z",
       "participante": "wesley-frias",
@@ -18931,7 +18931,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T04:50:02.211Z",
       "participante": "rafaelberrocalj-dotnet",
@@ -19003,7 +19003,7 @@
         "haproxy"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T00:50:43.901Z",
       "participante": "cleissonbarbosa-lean4",
@@ -19076,7 +19076,7 @@
         "akka.net"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T04:04:36.476Z",
       "participante": "libardi-dotnet",
@@ -19146,7 +19146,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T06:54:51.258Z",
       "participante": "bruno-inacio-dotnet",
@@ -19221,7 +19221,7 @@
         ""
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:31:43.843Z",
       "participante": "joaoprocopio",
@@ -20001,7 +20001,7 @@
         "fasthttp"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:34:41.067Z",
       "participante": "flads-go",
@@ -20070,7 +20070,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T06:06:46.385Z",
       "participante": "gabrieleiro",
@@ -20283,7 +20283,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:33:46.448Z",
       "participante": "rjsantana",
@@ -20357,7 +20357,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T04:55:53.365Z",
       "participante": "rafaelgiori-dotnet",
@@ -20631,7 +20631,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T04:03:38.217Z",
       "participante": "danielsuhett-golang",
@@ -20851,7 +20851,7 @@
         "https://docs.rs/flume/latest/flume/"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T03:22:46.053Z",
       "participante": "joao-xavier",
@@ -21283,7 +21283,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T19:41:36.098Z",
       "participante": "wendelmax",
@@ -21360,7 +21360,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T01:10:32.953Z",
       "participante": "cristian-s-bun-go-1",
@@ -22156,7 +22156,7 @@
         "dotnet 9.0"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:30:24.195Z",
       "participante": "vhogemann",
@@ -22298,7 +22298,7 @@
         "chi-router"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T16:49:22.873Z",
       "participante": "nathanfabio-go",
@@ -22366,7 +22366,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:31:27.399Z",
       "participante": "gabrielluizsf-go",
@@ -22512,7 +22512,7 @@
         "fastjson2"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:25:58.072Z",
       "participante": "gabrielluciano-quarkus",
@@ -23283,7 +23283,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:41:39.446Z",
       "participante": "bine-rinha-backend-golang",
@@ -23359,7 +23359,7 @@
         "hono"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:22:40.698Z",
       "participante": "gabriell915-bun-hono-01",
@@ -23575,7 +23575,7 @@
         "uvicorn"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T16:31:45.216Z",
       "participante": "lucas-porto-python-01",
@@ -23630,7 +23630,7 @@
     "info": {
       "erro": "favor corrigir arquivo"
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:41:10.007Z",
       "participante": "victorverdoodt-cs-redis",
@@ -23701,7 +23701,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:17:51.505Z",
       "participante": "athayr-robyn-python",
@@ -24219,7 +24219,7 @@
         "guaraci"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T07:48:33.904Z",
       "participante": "guim-ruby",
@@ -24294,7 +24294,7 @@
         "sonic"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T04:45:22.242Z",
       "participante": "diofeher",
@@ -24502,7 +24502,7 @@
         "GraalVM"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T01:06:59.650Z",
       "participante": "marcioendo",
@@ -24574,7 +24574,7 @@
         "fiber"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:37:26.726Z",
       "participante": "joaoreisa-go",
@@ -24646,7 +24646,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:47:35.701Z",
       "participante": "bine-rinha-backend-react-php",
@@ -25363,7 +25363,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:26:11.528Z",
       "participante": "joaofsilva-php-swoole",
@@ -25503,7 +25503,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T07:00:34.054Z",
       "participante": "brunokiau-jvm",
@@ -25576,7 +25576,7 @@
         "nix"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:44:55.302Z",
       "participante": "leandroalves-haskell",
@@ -25647,7 +25647,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T20:41:46.456Z",
       "participante": "xandao-php",
@@ -25794,7 +25794,7 @@
         "graalVM"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T04:15:23.263Z",
       "participante": "danielwisky",
@@ -25866,7 +25866,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T04:36:05.885Z",
       "participante": "jpgo",
@@ -25941,7 +25941,7 @@
         "swoole"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:47:26.819Z",
       "participante": "matheuspaula-php",
@@ -26084,7 +26084,7 @@
         ""
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:59:19.548Z",
       "participante": "brecabral-go",
@@ -26379,7 +26379,7 @@
         "bandit"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T00:44:12.644Z",
       "participante": "kauan-carvalho-elixir",
@@ -26527,7 +26527,7 @@
         "docker"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T01:04:44.220Z",
       "participante": "kauefraga-bundemais",
@@ -26595,7 +26595,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T04:58:40.988Z",
       "participante": "vctrhugo-fastapi",
@@ -26748,7 +26748,7 @@
         "flock"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T20:29:56.855Z",
       "participante": "willzada-aGOrinha",
@@ -26819,7 +26819,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T03:16:54.134Z",
       "participante": "andersongomes001",
@@ -26968,7 +26968,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T04:51:06.831Z",
       "participante": "teuso99",
@@ -27247,7 +27247,7 @@
         "custom"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T15:37:51.838Z",
       "participante": "josineyjr-go-5",
@@ -27313,7 +27313,7 @@
         "custom"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T15:20:35.062Z",
       "participante": "josineyjr-go-2",
@@ -27461,7 +27461,7 @@
         "worker-threads"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:26:37.112Z",
       "participante": "mauricio-cantu-2",
@@ -27533,7 +27533,7 @@
         "Free Pascal"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T00:39:32.559Z",
       "participante": "maico-smaniotto-objpas-pgsql",
@@ -27678,7 +27678,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T01:53:31.447Z",
       "participante": "marincor",
@@ -27753,7 +27753,7 @@
         "sequel"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:24:04.820Z",
       "participante": "augustoc100-ruby",
@@ -27892,7 +27892,7 @@
         "haproxy"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T03:31:18.798Z",
       "participante": "rodrigo-schonardt-go",
@@ -28035,7 +28035,7 @@
         "javalin"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:44:39.297Z",
       "participante": "josafaverissimo-java-01",
@@ -28180,7 +28180,7 @@
         "fastify"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:43:06.084Z",
       "participante": "joaoulian",
@@ -28326,7 +28326,7 @@
         "Spring Boot 3"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:51:08.279Z",
       "participante": "lecosas-java-spring",
@@ -28471,7 +28471,7 @@
       "load-balancers": [],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T20:23:59.850Z",
       "participante": "willzada-BUNrinha",
@@ -28684,7 +28684,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:34:03.380Z",
       "participante": "joao-vitor-node",
@@ -28755,7 +28755,7 @@
         "haproxy"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T04:52:40.754Z",
       "participante": "anibalferreira-rust",
@@ -29334,7 +29334,7 @@
         "typescript"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:51:20.329Z",
       "participante": "joseeduardo-node",
@@ -29897,7 +29897,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T00:47:49.596Z",
       "participante": "ViniciusAlexsander-python",
@@ -30039,7 +30039,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T07:25:16.776Z",
       "participante": "dinossauro",
@@ -30114,7 +30114,7 @@
         ""
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:49:15.179Z",
       "participante": "mdantas-rust",
@@ -30386,7 +30386,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T02:23:51.074Z",
       "participante": "joaocrulhas-nestjs-ts",
@@ -30459,7 +30459,7 @@
         "virtual-threads"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T14:20:32.101Z",
       "participante": "lucas-lima-chaves",
@@ -30531,7 +30531,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T16:25:55.143Z",
       "participante": "lmtani",
@@ -30747,7 +30747,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T01:10:06.232Z",
       "participante": "krymancer",
@@ -30885,7 +30885,7 @@
         "nginx"
       ]
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T16:55:15.344Z",
       "participante": "ndulo-node",
@@ -30957,7 +30957,7 @@
       ],
       "other-technologies": []
     },
-    "erro_na_execucao": true,
+    "erro_na_execucao": false,
     "resultado_final": {
       "timestamp": "2025-08-21T05:53:24.678Z",
       "participante": "boaglio-player456",
