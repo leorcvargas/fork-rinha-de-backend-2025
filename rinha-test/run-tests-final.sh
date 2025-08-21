@@ -17,6 +17,7 @@ stopContainers() {
   pushd ../participantes/$1
   docker compose down -v --remove-orphans
   docker compose rm -s -v -f
+  docker image prune --force --all
   sudo find * -group root | xargs sudo rm -rf
   popd >/dev/null
   pushd ../payment-processor >/dev/null
@@ -103,7 +104,6 @@ for directory in ../participantes/*; do
         echo "[$(date)] Inspecione o arquivo docker-compose-final.logs para mais informações." >>$directory/error-final.logs
         echo "Could not get a successful response from backend... aborting test for $participant"
       fi
-      docker compose down -v && docker image prune --force --all
 
       echo "================================="
       echo "  Finished testing $participant!"
