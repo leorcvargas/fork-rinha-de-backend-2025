@@ -97,13 +97,13 @@ for directory in ../participantes/*; do
         sed -i '1001,$d' $directory/k6-final.logs
         echo "log truncated at line 1000" >>$directory/docker-compose-final.logs
         echo "log truncated at line 1000" >>$directory/k6-final.logs
-        docker compose down -v && docker compose image prune
       else
         stopContainers $participant
         echo "[$(date)] Seu backend não respondeu nenhuma das $max_attempts tentativas de GET para http://localhost:9999/payments-summary. Teste abortado." >$directory/error-final.logs
         echo "[$(date)] Inspecione o arquivo docker-compose-final.logs para mais informações." >>$directory/error-final.logs
         echo "Could not get a successful response from backend... aborting test for $participant"
       fi
+      docker compose down -v && docker compose image prune
 
       echo "================================="
       echo "  Finished testing $participant!"
@@ -168,4 +168,3 @@ end=$(date)
 
 echo " ACABOU!!! "
 echo "Começou em $start e terminou em $end."
-
