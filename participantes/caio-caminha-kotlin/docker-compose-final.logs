@@ -1,0 +1,8 @@
+
+time="2025-08-21T06:11:21Z" level=warning msg="/home/admin/fork-rinha-de-backend-2025/participantes/caio-caminha-kotlin/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ load-balancer Pulling 
+ api-1 Pulling 
+ api-2 Pulling 
+ api-1  Interrupted
+ api-2  Interrupted
+toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

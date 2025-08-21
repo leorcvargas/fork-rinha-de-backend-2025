@@ -1,0 +1,28 @@
+
+ postgres Pulling 
+ rinha-backend Pulling 
+ nginx Pulling 
+ 59e22667830b Pulling fs layer 
+ 4280b73b1d39 Pulling fs layer 
+ ef9e620c2b26 Pulling fs layer 
+ e79dcd8a7fe6 Pulling fs layer 
+ fe1043bdd530 Pulling fs layer 
+ 7fbefc2f50d3 Pulling fs layer 
+ 46bc40a3fdc2 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ abcdd3e5ae2b Pulling fs layer 
+ e79dcd8a7fe6 Waiting 
+ fe1043bdd530 Waiting 
+ 7fbefc2f50d3 Waiting 
+ 46bc40a3fdc2 Waiting 
+ 4f4fb700ef54 Waiting 
+ abcdd3e5ae2b Waiting 
+ 59e22667830b Downloading [>                                                  ]  288.6kB/28.23MB
+ ef9e620c2b26 Downloading [=====================>                             ]  1.378kB/3.28kB
+ ef9e620c2b26 Downloading [==================================================>]   3.28kB/3.28kB
+ ef9e620c2b26 Verifying Checksum 
+ ef9e620c2b26 Download complete 
+ 4280b73b1d39 Downloading [>                                                  ]  196.6kB/18.74MB
+ postgres Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ nginx  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

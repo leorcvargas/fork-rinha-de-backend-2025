@@ -1,0 +1,10 @@
+
+ haproxy Pulling 
+ app2 Pulling 
+ cron Pulling 
+ app1 Pulling 
+ haproxy Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ cron  Interrupted
+ app1  Interrupted
+ app2  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

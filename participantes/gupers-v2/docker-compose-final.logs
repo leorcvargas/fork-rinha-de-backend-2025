@@ -1,0 +1,99 @@
+
+ payment-gateway-1 Pulling 
+ payment-gateway-2 Pulling 
+ 9824c27679d3 Already exists 
+ 9824c27679d3 Already exists 
+ 0ccf9a416788 Already exists 
+ 0ccf9a416788 Already exists 
+ e21b808c6d14 Already exists 
+ e21b808c6d14 Already exists 
+ 4f4fb700ef54 Already exists 
+ 4f4fb700ef54 Already exists 
+ ff5849965ead Pulling fs layer 
+ 5310129b0629 Pulling fs layer 
+ ff5849965ead Pulling fs layer 
+ 5310129b0629 Pulling fs layer 
+ 5310129b0629 Downloading [>                                                  ]  80.96kB/7.914MB
+ 5310129b0629 Downloading [>                                                  ]  80.96kB/7.914MB
+ ff5849965ead Downloading [>                                                  ]  80.96kB/7.914MB
+ ff5849965ead Downloading [>                                                  ]  80.96kB/7.914MB
+ 5310129b0629 Downloading [=>                                                 ]  162.9kB/7.914MB
+ 5310129b0629 Downloading [=>                                                 ]  162.9kB/7.914MB
+ ff5849965ead Downloading [=>                                                 ]  162.9kB/7.914MB
+ ff5849965ead Downloading [=>                                                 ]  162.9kB/7.914MB
+ 5310129b0629 Downloading [=>                                                 ]  244.8kB/7.914MB
+ 5310129b0629 Downloading [=>                                                 ]  244.8kB/7.914MB
+ ff5849965ead Downloading [=>                                                 ]  244.8kB/7.914MB
+ ff5849965ead Downloading [=>                                                 ]  244.8kB/7.914MB
+ 5310129b0629 Downloading [==>                                                ]  326.7kB/7.914MB
+ 5310129b0629 Downloading [==>                                                ]  326.7kB/7.914MB
+ ff5849965ead Downloading [==>                                                ]  326.7kB/7.914MB
+ ff5849965ead Downloading [==>                                                ]  326.7kB/7.914MB
+ 5310129b0629 Downloading [==>                                                ]  408.6kB/7.914MB
+ 5310129b0629 Downloading [==>                                                ]  408.6kB/7.914MB
+ ff5849965ead Downloading [==>                                                ]  408.6kB/7.914MB
+ ff5849965ead Downloading [==>                                                ]  408.6kB/7.914MB
+ 5310129b0629 Downloading [====>                                              ]  654.4kB/7.914MB
+ 5310129b0629 Downloading [====>                                              ]  654.4kB/7.914MB
+ ff5849965ead Downloading [====>                                              ]  654.4kB/7.914MB
+ ff5849965ead Downloading [====>                                              ]  654.4kB/7.914MB
+ 5310129b0629 Downloading [======>                                            ]  982.1kB/7.914MB
+ 5310129b0629 Downloading [======>                                            ]  982.1kB/7.914MB
+ ff5849965ead Downloading [=====>                                             ]  900.2kB/7.914MB
+ ff5849965ead Downloading [=====>                                             ]  900.2kB/7.914MB
+ 5310129b0629 Downloading [=========>                                         ]  1.474MB/7.914MB
+ 5310129b0629 Downloading [=========>                                         ]  1.474MB/7.914MB
+ ff5849965ead Downloading [=======>                                           ]  1.228MB/7.914MB
+ ff5849965ead Downloading [=======>                                           ]  1.228MB/7.914MB
+ 5310129b0629 Downloading [=============>                                     ]  2.129MB/7.914MB
+ 5310129b0629 Downloading [=============>                                     ]  2.129MB/7.914MB
+ ff5849965ead Downloading [==========>                                        ]  1.637MB/7.914MB
+ ff5849965ead Downloading [==========>                                        ]  1.637MB/7.914MB
+ 5310129b0629 Downloading [==================>                                ]  2.948MB/7.914MB
+ 5310129b0629 Downloading [==================>                                ]  2.948MB/7.914MB
+ ff5849965ead Downloading [==============>                                    ]  2.293MB/7.914MB
+ ff5849965ead Downloading [==============>                                    ]  2.293MB/7.914MB
+ 5310129b0629 Downloading [========================>                          ]  3.849MB/7.914MB
+ 5310129b0629 Downloading [========================>                          ]  3.849MB/7.914MB
+ ff5849965ead Downloading [===================>                               ]  3.112MB/7.914MB
+ ff5849965ead Downloading [===================>                               ]  3.112MB/7.914MB
+ 5310129b0629 Downloading [==========================>                        ]   4.26MB/7.914MB
+ 5310129b0629 Downloading [==========================>                        ]   4.26MB/7.914MB
+ ff5849965ead Downloading [=========================>                         ]  4.013MB/7.914MB
+ ff5849965ead Downloading [=========================>                         ]  4.013MB/7.914MB
+ 5310129b0629 Downloading [==================================>                ]  5.489MB/7.914MB
+ 5310129b0629 Downloading [==================================>                ]  5.489MB/7.914MB
+ ff5849965ead Downloading [==========================>                        ]   4.26MB/7.914MB
+ ff5849965ead Downloading [==========================>                        ]   4.26MB/7.914MB
+ 5310129b0629 Downloading [==========================================>        ]  6.799MB/7.914MB
+ 5310129b0629 Downloading [==========================================>        ]  6.799MB/7.914MB
+ 5310129b0629 Verifying Checksum 
+ 5310129b0629 Download complete 
+ 5310129b0629 Download complete 
+ ff5849965ead Downloading [==================================>                ]  5.407MB/7.914MB
+ ff5849965ead Downloading [==================================>                ]  5.407MB/7.914MB
+ ff5849965ead Downloading [=========================================>         ]  6.636MB/7.914MB
+ ff5849965ead Downloading [=========================================>         ]  6.636MB/7.914MB
+ ff5849965ead Verifying Checksum 
+ ff5849965ead Download complete 
+ ff5849965ead Extracting [>                                                  ]   98.3kB/7.914MB
+ ff5849965ead Extracting [>                                                  ]   98.3kB/7.914MB
+ ff5849965ead Extracting [==================================================>]  7.914MB/7.914MB
+ ff5849965ead Extracting [==================================================>]  7.914MB/7.914MB
+ ff5849965ead Pull complete 
+ ff5849965ead Pull complete 
+ 5310129b0629 Extracting [>                                                  ]   98.3kB/7.914MB
+ 5310129b0629 Extracting [>                                                  ]   98.3kB/7.914MB
+ 5310129b0629 Extracting [==================================================>]  7.914MB/7.914MB
+ 5310129b0629 Extracting [==================================================>]  7.914MB/7.914MB
+ 5310129b0629 Pull complete 
+ 5310129b0629 Pull complete 
+ payment-gateway-1 Pulled 
+ payment-gateway-2 Pulled 
+ Network gupers-v2_backend  Creating
+ Network gupers-v2_backend  Created
+ Container payment-gateway-db  Creating
+ Container payment-gateway-envoy  Creating
+ Container payment-gateway-envoy  Error response from daemon: Conflict. The container name "/payment-gateway-envoy" is already in use by container "f1fafd3b960db57fe85c12d758e66386d22add787b51cc43df6e361c0842484a". You have to remove (or rename) that container to be able to reuse that name.
+ Container payment-gateway-db  Error response from daemon: Conflict. The container name "/payment-gateway-db" is already in use by container "c777935520b687dcba33bcc638e373f925f98a1aa96fb771a9821e37695e3727". You have to remove (or rename) that container to be able to reuse that name.
+Error response from daemon: Conflict. The container name "/payment-gateway-envoy" is already in use by container "f1fafd3b960db57fe85c12d758e66386d22add787b51cc43df6e361c0842484a". You have to remove (or rename) that container to be able to reuse that name.

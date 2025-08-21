@@ -1,0 +1,28 @@
+
+time="2025-08-21T06:04:47Z" level=warning msg="/home/admin/fork-rinha-de-backend-2025/participantes/phalabadessa-rust-redis-v1/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ api02 Pulling 
+ redis Pulling 
+ db Pulling 
+ api01 Pulling 
+ nginx Pulling 
+ 9824c27679d3 Pulling fs layer 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ cb1ff4086f82 Pulling fs layer 
+ 9824c27679d3 Waiting 
+ 7a8a46741e18 Waiting 
+ 6bc572a340ec Waiting 
+ c9ebe2ff2d2c Waiting 
+ 403e3f251637 Waiting 
+ 9adfbae99cb7 Waiting 
+ a992fbc61ecc Waiting 
+ cb1ff4086f82 Waiting 
+ db Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ api01  Interrupted
+ redis  Interrupted
+ api02  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

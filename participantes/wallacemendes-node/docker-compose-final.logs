@@ -1,0 +1,8 @@
+
+time="2025-08-21T06:08:27Z" level=warning msg="/home/admin/fork-rinha-de-backend-2025/participantes/wallacemendes-node/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ redis Pulling 
+ api1 Pulling 
+ nginx Pulling 
+ api2 Pulling 
+ api1 Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

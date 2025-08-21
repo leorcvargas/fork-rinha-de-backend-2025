@@ -1,0 +1,20 @@
+
+ api2 Pulling 
+ api1 Pulling 
+ redis Pulling 
+ nginx Pulling 
+ 1747dece9491 Pulling fs layer 
+ 7bf216ed8ca7 Pulling fs layer 
+ 0f296590e746 Pulling fs layer 
+ 1465e7b74742 Pulling fs layer 
+ a4eeb3ec46ad Pulling fs layer 
+ 1465e7b74742 Waiting 
+ a4eeb3ec46ad Waiting 
+ 1747dece9491 Pulling fs layer 
+ 7bf216ed8ca7 Pulling fs layer 
+ 0f296590e746 Pulling fs layer 
+ 1465e7b74742 Pulling fs layer 
+ a4eeb3ec46ad Pulling fs layer 
+ a4eeb3ec46ad Waiting 
+ 1465e7b74742 Waiting 
+toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

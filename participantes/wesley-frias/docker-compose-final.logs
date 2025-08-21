@@ -1,0 +1,10 @@
+
+ nginx Pulling 
+ app1 Pulling 
+ app2 Pulling 
+ worker Pulling 
+ nginx Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ app1  Interrupted
+ worker  Interrupted
+ app2  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

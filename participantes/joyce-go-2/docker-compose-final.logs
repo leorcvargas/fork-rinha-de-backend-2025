@@ -1,0 +1,16 @@
+
+ payments-service-2 Pulling 
+ load-balancer-backend Pulling 
+ database Pulling 
+ warm-up Pulling 
+ payments-service Pulling 
+ 01d036902a3c Pulling fs layer 
+ 271a4d18b16b Pulling fs layer 
+ aa87a5dc91d9 Pulling fs layer 
+ 06ed42219a0b Pulling fs layer 
+ 06ed42219a0b Waiting 
+ payments-service-2 Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ database  Interrupted
+ warm-up  Interrupted
+ load-balancer-backend  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

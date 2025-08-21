@@ -1,0 +1,9 @@
+
+ db Pulling 
+ api2 Pulling 
+ api1 Pulling 
+ lb Pulling 
+ api2  Interrupted
+ lb  Interrupted
+ api1  Interrupted
+toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

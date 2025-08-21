@@ -1,0 +1,12 @@
+
+ app2 Pulling 
+ app1 Pulling 
+ redis Pulling 
+ worker2 Pulling 
+ worker1 Pulling 
+ redis Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ worker1  Interrupted
+ app1  Interrupted
+ worker2  Interrupted
+ app2  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

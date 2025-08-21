@@ -1,0 +1,35 @@
+
+time="2025-08-21T06:10:18Z" level=warning msg="/home/admin/fork-rinha-de-backend-2025/participantes/raphaeldiasc21-nodejs/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ app1 Pulling 
+ mongodb Pulling 
+ redis Pulling 
+ app2 Pulling 
+ nginx Pulling 
+ b1badc6e5066 Pulling fs layer 
+ a2da0c0f2353 Pulling fs layer 
+ e5d9bb0b85cc Pulling fs layer 
+ 14a859b5ba24 Pulling fs layer 
+ 716cdf61af59 Pulling fs layer 
+ 14e422fd20a0 Pulling fs layer 
+ c3741b707ce6 Pulling fs layer 
+ 14a859b5ba24 Waiting 
+ 716cdf61af59 Waiting 
+ 14e422fd20a0 Waiting 
+ c3741b707ce6 Waiting 
+ b1badc6e5066 Pulling fs layer 
+ e51f60c71d8e Pulling fs layer 
+ 311d9cf20af5 Pulling fs layer 
+ f22261c94fe4 Pulling fs layer 
+ 6f34ca96de3f Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 63edde0222ea Pulling fs layer 
+ e51f60c71d8e Waiting 
+ 311d9cf20af5 Waiting 
+ 6f34ca96de3f Waiting 
+ 4f4fb700ef54 Waiting 
+ 63edde0222ea Waiting 
+ f22261c94fe4 Waiting 
+ mongodb Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ app1  Interrupted
+ app2  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

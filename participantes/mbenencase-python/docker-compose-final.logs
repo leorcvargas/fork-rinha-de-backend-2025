@@ -1,0 +1,60 @@
+
+ api2 Pulling 
+ api1 Pulling 
+ db Pulling 
+ nginx Pulling 
+ redis Pulling 
+ 9824c27679d3 Pulling fs layer 
+ 01ef787617d5 Pulling fs layer 
+ d444581c5dc1 Pulling fs layer 
+ 127625cab66d Pulling fs layer 
+ 7f8bf47818a2 Pulling fs layer 
+ 0951477387e1 Pulling fs layer 
+ 878e28e3ecd5 Pulling fs layer 
+ d079e32a74cc Pulling fs layer 
+ cb87d3c01966 Pulling fs layer 
+ 40af0ccd9733 Pulling fs layer 
+ 0b003ba20c51 Pulling fs layer 
+ 878e28e3ecd5 Waiting 
+ d079e32a74cc Waiting 
+ cb87d3c01966 Waiting 
+ 40af0ccd9733 Waiting 
+ 0b003ba20c51 Waiting 
+ 127625cab66d Waiting 
+ 7f8bf47818a2 Waiting 
+ 0951477387e1 Waiting 
+ 3da95a905ed5 Pulling fs layer 
+ 483d0dd37518 Pulling fs layer 
+ 02a5d22e0d6f Pulling fs layer 
+ 471797cdda8c Pulling fs layer 
+ ce4dbd0f72f9 Pulling fs layer 
+ 46742c17b07d Pulling fs layer 
+ f4f0b4838015 Pulling fs layer 
+ 37f25f93bb2c Pulling fs layer 
+ 3da95a905ed5 Waiting 
+ 483d0dd37518 Waiting 
+ 02a5d22e0d6f Waiting 
+ 471797cdda8c Waiting 
+ ce4dbd0f72f9 Waiting 
+ 46742c17b07d Waiting 
+ f4f0b4838015 Waiting 
+ 37f25f93bb2c Waiting 
+ 3da95a905ed5 Pulling fs layer 
+ 483d0dd37518 Pulling fs layer 
+ 02a5d22e0d6f Pulling fs layer 
+ 471797cdda8c Pulling fs layer 
+ ce4dbd0f72f9 Pulling fs layer 
+ 46742c17b07d Pulling fs layer 
+ f4f0b4838015 Pulling fs layer 
+ 37f25f93bb2c Pulling fs layer 
+ 37f25f93bb2c Waiting 
+ 483d0dd37518 Waiting 
+ 02a5d22e0d6f Waiting 
+ 3da95a905ed5 Waiting 
+ 471797cdda8c Waiting 
+ ce4dbd0f72f9 Waiting 
+ 46742c17b07d Waiting 
+ f4f0b4838015 Waiting 
+ nginx Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ redis  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

@@ -1,0 +1,23 @@
+
+ redis Pulling 
+ app1 Pulling 
+ app2 Pulling 
+ haproxy Pulling 
+ 9824c27679d3 Pulling fs layer 
+ e6608af1ce4f Pulling fs layer 
+ 1c08016baf2c Pulling fs layer 
+ 792c2b62fa05 Pulling fs layer 
+ 9824c27679d3 Waiting 
+ e6608af1ce4f Waiting 
+ 1c08016baf2c Waiting 
+ 792c2b62fa05 Waiting 
+ 9824c27679d3 Pulling fs layer 
+ e6608af1ce4f Pulling fs layer 
+ 1c08016baf2c Pulling fs layer 
+ 792c2b62fa05 Pulling fs layer 
+ 792c2b62fa05 Waiting 
+ 9824c27679d3 Waiting 
+ e6608af1ce4f Waiting 
+ 1c08016baf2c Waiting 
+ redis  Interrupted
+toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

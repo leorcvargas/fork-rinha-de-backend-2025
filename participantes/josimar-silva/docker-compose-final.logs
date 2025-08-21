@@ -1,0 +1,52 @@
+
+ redis Pulling 
+ nginx Pulling 
+ backend-01 Pulling 
+ backend-02 Pulling 
+ 0839951f9c76 Pulling fs layer 
+ e091ee1df9b4 Pulling fs layer 
+ eb12cd9b9d64 Pulling fs layer 
+ 0839951f9c76 Pulling fs layer 
+ e091ee1df9b4 Pulling fs layer 
+ eb12cd9b9d64 Pulling fs layer 
+ e091ee1df9b4 Downloading [==================================================>]      91B/91B
+ e091ee1df9b4 Verifying Checksum 
+ e091ee1df9b4 Download complete 
+ e091ee1df9b4 Verifying Checksum 
+ e091ee1df9b4 Download complete 
+ 0839951f9c76 Downloading [>                                                  ]  310.1kB/30.78MB
+ 0839951f9c76 Downloading [>                                                  ]  310.1kB/30.78MB
+ eb12cd9b9d64 Downloading [>                                                  ]  34.31kB/3.359MB
+ eb12cd9b9d64 Downloading [>                                                  ]  34.31kB/3.359MB
+ 0839951f9c76 Downloading [=======>                                           ]  4.358MB/30.78MB
+ 0839951f9c76 Downloading [=======>                                           ]  4.358MB/30.78MB
+ eb12cd9b9d64 Downloading [===============================>                   ]  2.145MB/3.359MB
+ eb12cd9b9d64 Downloading [===============================>                   ]  2.145MB/3.359MB
+ eb12cd9b9d64 Downloading [==================================================>]  3.359MB/3.359MB
+ eb12cd9b9d64 Verifying Checksum 
+ eb12cd9b9d64 Download complete 
+ eb12cd9b9d64 Downloading [==================================================>]  3.359MB/3.359MB
+ eb12cd9b9d64 Verifying Checksum 
+ eb12cd9b9d64 Download complete 
+ 0839951f9c76 Downloading [=============>                                     ]  8.405MB/30.78MB
+ 0839951f9c76 Downloading [=============>                                     ]  8.405MB/30.78MB
+ 9824c27679d3 Pulling fs layer 
+ 97065d8f4164 Pulling fs layer 
+ dc8b9e3ff4af Pulling fs layer 
+ fd6a186858e3 Pulling fs layer 
+ 3e1be1ab9e57 Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ eaea4f58fa7c Pulling fs layer 
+ dc8b9e3ff4af Waiting 
+ fd6a186858e3 Waiting 
+ 3e1be1ab9e57 Waiting 
+ 4f4fb700ef54 Waiting 
+ eaea4f58fa7c Waiting 
+ 0839951f9c76 Downloading [====================>                              ]  12.45MB/30.78MB
+ 0839951f9c76 Downloading [====================>                              ]  12.45MB/30.78MB
+ 0839951f9c76 Downloading [==========================>                        ]   16.5MB/30.78MB
+ 0839951f9c76 Downloading [==========================>                        ]   16.5MB/30.78MB
+ 0839951f9c76 Downloading [=================================>                 ]  20.61MB/30.78MB
+ 0839951f9c76 Downloading [=================================>                 ]  20.61MB/30.78MB
+ nginx Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

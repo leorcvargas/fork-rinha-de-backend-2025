@@ -1,0 +1,25 @@
+
+ redis Pulling 
+ worker Pulling 
+ backend1 Pulling 
+ nginx Pulling 
+ backend2 Pulling 
+ b1badc6e5066 Pulling fs layer 
+ e51f60c71d8e Pulling fs layer 
+ 311d9cf20af5 Pulling fs layer 
+ f22261c94fe4 Pulling fs layer 
+ 6f34ca96de3f Pulling fs layer 
+ 4f4fb700ef54 Pulling fs layer 
+ 63edde0222ea Pulling fs layer 
+ b1badc6e5066 Waiting 
+ e51f60c71d8e Waiting 
+ 311d9cf20af5 Waiting 
+ f22261c94fe4 Waiting 
+ 6f34ca96de3f Waiting 
+ 63edde0222ea Waiting 
+ 4f4fb700ef54 Waiting 
+ nginx Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ worker  Interrupted
+ backend2  Interrupted
+ backend1  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

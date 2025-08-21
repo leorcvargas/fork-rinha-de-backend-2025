@@ -1,0 +1,29 @@
+
+ api02 Pulling 
+ redis Pulling 
+ nginx Pulling 
+ api01 Pulling 
+ 9824c27679d3 Pulling fs layer 
+ 6bc572a340ec Pulling fs layer 
+ 403e3f251637 Pulling fs layer 
+ 9adfbae99cb7 Pulling fs layer 
+ 7a8a46741e18 Pulling fs layer 
+ c9ebe2ff2d2c Pulling fs layer 
+ a992fbc61ecc Pulling fs layer 
+ cb1ff4086f82 Pulling fs layer 
+ 7a8a46741e18 Waiting 
+ c9ebe2ff2d2c Waiting 
+ a992fbc61ecc Waiting 
+ cb1ff4086f82 Waiting 
+ 9adfbae99cb7 Waiting 
+ 6bc572a340ec Downloading [>                                                  ]  18.84kB/1.806MB
+ 9824c27679d3 Downloading [>                                                  ]  38.27kB/3.8MB
+ 6bc572a340ec Verifying Checksum 
+ 6bc572a340ec Download complete 
+ 403e3f251637 Downloading [==================================================>]     628B/628B
+ 403e3f251637 Verifying Checksum 
+ 403e3f251637 Download complete 
+ redis Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ api01  Interrupted
+ api02  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

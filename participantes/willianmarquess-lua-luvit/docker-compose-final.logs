@@ -1,0 +1,22 @@
+
+ redis Pulling 
+ service3 Pulling 
+ service6 Pulling 
+ service5 Pulling 
+ nginx Pulling 
+ service2 Pulling 
+ service8 Pulling 
+ service4 Pulling 
+ service7 Pulling 
+ service1 Pulling 
+ redis Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ nginx  Interrupted
+ service1  Interrupted
+ service2  Interrupted
+ service5  Interrupted
+ service8  Interrupted
+ service4  Interrupted
+ service7  Interrupted
+ service3  Interrupted
+ service6  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

@@ -1,0 +1,11 @@
+
+time="2025-08-21T05:57:03Z" level=warning msg="/home/admin/fork-rinha-de-backend-2025/participantes/ndulo-node/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ db Pulling 
+ nginx Pulling 
+ app1 Pulling 
+ app2 Pulling 
+ db Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ nginx  Interrupted
+ app1  Interrupted
+ app2  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

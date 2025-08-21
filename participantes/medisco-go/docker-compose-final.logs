@@ -1,0 +1,45 @@
+
+ db Pulling 
+ rinha-1 Pulling 
+ nginx Pulling 
+ rinha-3 Pulling 
+ rinha-2 Pulling 
+ 396b1da7636e Pulling fs layer 
+ fca2566eba32 Pulling fs layer 
+ 631fe8c6d606 Pulling fs layer 
+ 77c7671c4414 Pulling fs layer 
+ 2d9e29180a27 Pulling fs layer 
+ c6bcc2c9a041 Pulling fs layer 
+ ac4b721eb66f Pulling fs layer 
+ 606bd164980e Pulling fs layer 
+ f5dfd246bc6e Pulling fs layer 
+ ba7036bb0a60 Pulling fs layer 
+ 799f859abbbd Pulling fs layer 
+ d903e777080c Pulling fs layer 
+ 04adcb462801 Pulling fs layer 
+ 5c10925b29ff Pulling fs layer 
+ 606bd164980e Waiting 
+ f5dfd246bc6e Waiting 
+ ba7036bb0a60 Waiting 
+ 799f859abbbd Waiting 
+ d903e777080c Waiting 
+ 04adcb462801 Waiting 
+ 5c10925b29ff Waiting 
+ 2d9e29180a27 Waiting 
+ c6bcc2c9a041 Waiting 
+ ac4b721eb66f Waiting 
+ 77c7671c4414 Waiting 
+ fca2566eba32 Downloading [============================================>      ]  1.049kB/1.168kB
+ fca2566eba32 Downloading [==================================================>]  1.168kB/1.168kB
+ fca2566eba32 Download complete 
+ 396b1da7636e Downloading [>                                                  ]    299kB/29.77MB
+ 631fe8c6d606 Downloading [>                                                  ]  65.54kB/6.437MB
+ 631fe8c6d606 Verifying Checksum 
+ 631fe8c6d606 Download complete 
+ 396b1da7636e Downloading [===================>                               ]  11.66MB/29.77MB
+ 396b1da7636e Downloading [===============================>                   ]  18.69MB/29.77MB
+ nginx Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ rinha-1  Interrupted
+ rinha-3  Interrupted
+ rinha-2  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

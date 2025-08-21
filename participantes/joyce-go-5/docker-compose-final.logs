@@ -1,0 +1,12 @@
+
+ payments-service-2 Pulling 
+ database Pulling 
+ load-balancer-backend Pulling 
+ warm-up Pulling 
+ payments-service Pulling 
+ database Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ payments-service-2  Interrupted
+ warm-up  Interrupted
+ payments-service  Interrupted
+ load-balancer-backend  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

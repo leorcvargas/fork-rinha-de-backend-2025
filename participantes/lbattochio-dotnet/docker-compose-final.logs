@@ -1,0 +1,11 @@
+
+ redis Pulling 
+ postgres Pulling 
+ rinhabackend Pulling 
+ rinhabackend-2 Pulling 
+ load-balancer Pulling 
+ postgres Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ rinhabackend-2  Interrupted
+ redis  Interrupted
+ rinhabackend  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

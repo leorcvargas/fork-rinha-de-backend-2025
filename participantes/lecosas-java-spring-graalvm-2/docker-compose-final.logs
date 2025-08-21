@@ -1,0 +1,12 @@
+
+ backend-01 Pulling 
+ backend-02 Pulling 
+ redis Pulling 
+ openresty Pulling 
+ 59e22667830b Pulling fs layer 
+ 425508b88664 Pulling fs layer 
+ 1f19ea626206 Pulling fs layer 
+ faf528e2e2f6 Pulling fs layer 
+ faf528e2e2f6 Waiting 
+ openresty  Interrupted
+toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

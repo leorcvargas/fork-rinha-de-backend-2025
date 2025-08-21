@@ -1,0 +1,14 @@
+
+ nginx Pulling 
+ api2 Pulling 
+ api1 Pulling 
+ api3 Pulling 
+ cache Pulling 
+ consumer1 Pulling 
+ api2 Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ nginx  Interrupted
+ api3  Interrupted
+ api1  Interrupted
+ consumer1  Interrupted
+ cache  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

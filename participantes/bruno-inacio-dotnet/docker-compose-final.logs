@@ -1,0 +1,12 @@
+
+ postgres Pulling 
+ redis Pulling 
+ load-balancer Pulling 
+ api-1 Pulling 
+ api-2 Pulling 
+ postgres Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ load-balancer  Interrupted
+ api-1  Interrupted
+ api-2  Interrupted
+ redis  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

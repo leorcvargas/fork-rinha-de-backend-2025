@@ -1,0 +1,11 @@
+
+ backend-2 Pulling 
+ nginx Pulling 
+ redis Pulling 
+ backend-1 Pulling 
+ worker Pulling 
+ backend-1 Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ redis  Interrupted
+ backend-2  Interrupted
+ worker  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit

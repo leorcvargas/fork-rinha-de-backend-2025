@@ -1,0 +1,10 @@
+
+ api1 Pulling 
+ lb Pulling 
+ api2 Pulling 
+ worker1 Pulling 
+ lb Error toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
+ api1  Interrupted
+ worker1  Interrupted
+ api2  Interrupted
+Error response from daemon: toomanyrequests: You have reached your unauthenticated pull rate limit. https://www.docker.com/increase-rate-limit
